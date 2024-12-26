@@ -1,6 +1,6 @@
 SUMMARY:
 
-This repository hosts a python program which evaluates spectra data in the context of the DATA4.ZERO-ENKI project. The project aims to image cross sections of medical microtubing via spectral data gathered by an optical device. The program 
+This repository hosts a python program which evaluates spectra data in the context of the DATA4.ZERO-ENKI project. The project aims to image cross sections of medical microtubing via spectral data gathered by an optical device.
 
 
 PROJECT:
