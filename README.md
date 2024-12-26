@@ -1,7 +1,10 @@
 SUMMARY:
+
 This repository hosts a python program which evaluates spectra data in the context of the DATA4.ZERO-ENKI project. The project aims to image cross sections of medical microtubing via spectral data gathered by an optical device. The program 
 
+
 PROJECT:
+
 Medical microtubes are employed in minimally invasive medical procedures and devices, thanks to their small diameter and functionality under high pressures. Internal architecture of medical microtubing varies wildly; composing multiple lumen systems which provide delivery of multiple fluids at once, reduced need for repeated venipuncture, and a potential reduction in central line-associated bloodstream infections 
 
 Often, polymer tubing is manufactured via extrusion, which involves application of heat and pressure to a body which is stretched at constant speed and then cooled [3]. In this case, polymer pellets are melted and pressured through a tip and die which creates the desired cross-sectional shape of the tubing. This process is continuous.
